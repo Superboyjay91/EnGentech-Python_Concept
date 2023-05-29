@@ -1,2 +1,2 @@
 number = 24
-print("Heritage Poly is located @ No.{} Eket".format(number))
+print(f"Heritage Poly is located @ No. {number} Eket")
